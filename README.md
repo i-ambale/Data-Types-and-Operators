@@ -57,7 +57,7 @@ In this exercise, we practice:
    ```
 2. Open the project folder in VS Code.
 
-3.Open the `.ipynb` file using Jupyter Notebook or the VS Code Jupyter extension.
+3. Open the `.ipynb` file using Jupyter Notebook or the VS Code Jupyter extension.
 
 4. Run the cells sequentially.
 
